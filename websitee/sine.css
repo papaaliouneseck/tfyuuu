@@ -1,0 +1,26 @@
+img {
+    max-width: 85%;
+    height: auto;
+    vertical-align: middle;
+    }
+    body {
+        font-family: 'Heebo', sans-serif;
+        font-size: 14px;
+        line-height: 1.71428571;
+        color: #666666;
+        background-color: #ffffff;
+    }
+    div {
+        text-align: center;
+
+    }
+    h1 {
+     font-size: 45px;
+     text-align: center;
+     color: darkred;
+   
+    }
+    h2 {
+        font-size: 28px;
+        text-align: center;
+    }
